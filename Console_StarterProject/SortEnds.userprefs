@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{520F15C5-75A0-4FA4-8658-BBBCA15DE412}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="History.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="UserInterface.cs" Line="1" Column="1" />
+      <File FileName="History.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SortEnds PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
